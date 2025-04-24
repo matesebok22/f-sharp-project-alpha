@@ -19,3 +19,6 @@ This is where your own riches are shown. You start out with a certain amount of 
 Below that is the stocks you own.
 
 ![kép](https://github.com/user-attachments/assets/c108c438-9f6d-4669-833b-b56300826de2)
+
+At the bottom part of the page, you can buy and sell stocks.
+You can choose which stock you want to buy/sell. After selecting the amount, simply click on the "Buy stock" or "Sell stock" buttons to finish the transaction.

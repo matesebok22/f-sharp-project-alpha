@@ -12,3 +12,8 @@ How to use
 
 This is where you can see the price of certain stocks. You can see their cost the previous day to make it easier to compare.
 You can advance days by clicking on the "Next day" button shown at the bottom of the picture. Once pressed, the stocks will get new prices.
+
+![kép](https://github.com/user-attachments/assets/d9c4f4e2-a7ab-4c57-a34a-6aed1f683f62)
+
+This is where your own riches are shown. You start out with a certain amount of money (100000).
+Below that is the stocks you own.

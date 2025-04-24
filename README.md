@@ -5,6 +5,7 @@ Live-link: https://matesebok22.github.io/f-sharp-project-alpha/wwwroot/
 ## About the project
 
 Project is made by: Sebők Máté Milán, Neptun-code: DO21OO
+<br/>
 This project is about a stock simulation minigame where you can buy and sell stocks, advance days and make money.
 
 ## How to use

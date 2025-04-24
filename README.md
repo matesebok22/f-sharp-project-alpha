@@ -8,7 +8,7 @@ This project is about a stock simulation minigame where you can buy and sell sto
 
 ## How to use
 
-Simply click on the live-link on the top of the README file to play the game.
+Simply click on the live-link at the top of the README file to play the game.
 
 ![kép](https://github.com/user-attachments/assets/275617fc-a257-4f52-812c-4cf458db0912)
 

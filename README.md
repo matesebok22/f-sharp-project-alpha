@@ -17,3 +17,5 @@ You can advance days by clicking on the "Next day" button shown at the bottom of
 
 This is where your own riches are shown. You start out with a certain amount of money (100000).
 Below that is the stocks you own.
+
+![kép](https://github.com/user-attachments/assets/c108c438-9f6d-4669-833b-b56300826de2)

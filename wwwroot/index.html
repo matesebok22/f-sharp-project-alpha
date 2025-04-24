@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>StockMarketGame</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="Scripts/StockMarketGame.css" />
+
+    <style>
+        /* Don't show the not-yet-loaded templates */
+        [ws-template], [ws-children-template] { display: none; }
+    </style>
+
+    <script type="text/javascript" src="Scripts/StockMarketGame.head.js"></script>
+</head>
+<body>
+    <h1>Stock Market Game</h1>
+
+    <div id="game" ws-children-template="Game">
+
+        <h2>Stock price:</h2>
+        <ul ws-hole="StockPriceContainer">
+            <li ws-template="StockPriceItem"><b>${StockName}: ${StockPrice}</b> - Previous day: ${PricePercentage}</li>
+        </ul>
+
+        <button ws-onclick="NextDayButton">Next day</button>
+
+        <hr/>
+
+
+        <div>
+            <input ws-var="MoneyOwned" hidden />
+            <h3>Money: ${MoneyOwned}</h3>
+        </div>
+
+        <h3>Stocks:</h3>
+        <ul ws-hole="StockContainer">
+            <li ws-template="StockItem">${StockName}: ${StockAmount}</li>
+        </ul>
+
+        <hr />
+
+        <h2>Exchange stocks:</h2>
+        <p>
+            Choose a stock:
+            <select ws-var="SelectedStock">
+                <option value="NASDAQ">NASDAQ</option>
+                <option value="RUSSEL">RUSSEL</option>
+                <option value="IBEX">IBEX</option>
+                <option value="NIKKEI">NIKKEI</option>
+            </select>
+        </p>
+
+
+        <table>
+            <tr>
+                <td>
+                    <div>
+                        <p>Amount to buy: <input ws-var="InputBuy" type="number" min="0" size="5" /></p>
+
+                        <button ws-onclick="BuyButton">Buy stock</button>
+                    </div>
+                </td>
+
+                <td>
+                    <div>
+                        <p>Amount to sell: <input ws-var="InputSell" type="number" min="0" size="5" /></p>
+
+                        <button ws-onclick="SellButton">Sell stock</button>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <script type="module" src="Scripts/StockMarketGame.min.js"></script>
+</body>
+</html>

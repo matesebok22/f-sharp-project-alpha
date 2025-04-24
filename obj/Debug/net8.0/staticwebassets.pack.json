@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\haxax\\Desktop\\DUE\\NEGYEDIK FÉLÉV\\Funkcionális programozás F#-ban\\beadando\\StockMarketGame\\StockMarketGame\\wwwroot\\Scripts\\StockMarketGame.css",
+      "PackagePath": "staticwebassets\\Scripts\\StockMarketGame.css"
+    },
+    {
+      "Id": "C:\\Users\\haxax\\Desktop\\DUE\\NEGYEDIK FÉLÉV\\Funkcionális programozás F#-ban\\beadando\\StockMarketGame\\StockMarketGame\\wwwroot\\Scripts\\StockMarketGame.head.html",
+      "PackagePath": "staticwebassets\\Scripts\\StockMarketGame.head.html"
+    },
+    {
+      "Id": "C:\\Users\\haxax\\Desktop\\DUE\\NEGYEDIK FÉLÉV\\Funkcionális programozás F#-ban\\beadando\\StockMarketGame\\StockMarketGame\\wwwroot\\Scripts\\StockMarketGame.head.js",
+      "PackagePath": "staticwebassets\\Scripts\\StockMarketGame.head.js"
+    },
+    {
+      "Id": "C:\\Users\\haxax\\Desktop\\DUE\\NEGYEDIK FÉLÉV\\Funkcionális programozás F#-ban\\beadando\\StockMarketGame\\StockMarketGame\\wwwroot\\Scripts\\StockMarketGame.js",
+      "PackagePath": "staticwebassets\\Scripts\\StockMarketGame.js"
+    },
+    {
+      "Id": "C:\\Users\\haxax\\Desktop\\DUE\\NEGYEDIK FÉLÉV\\Funkcionális programozás F#-ban\\beadando\\StockMarketGame\\StockMarketGame\\wwwroot\\Scripts\\StockMarketGame.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\StockMarketGame.min.js"
+    },
+    {
+      "Id": "C:\\Users\\haxax\\Desktop\\DUE\\NEGYEDIK FÉLÉV\\Funkcionális programozás F#-ban\\beadando\\StockMarketGame\\StockMarketGame\\wwwroot\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js",
+      "PackagePath": "staticwebassets\\Scripts\\WebSharper.Core.JavaScript\\Runtime.js"
+    },
+    {
+      "Id": "C:\\Users\\haxax\\Desktop\\DUE\\NEGYEDIK FÉLÉV\\Funkcionális programozás F#-ban\\beadando\\StockMarketGame\\StockMarketGame\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StockMarketGame.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StockMarketGame.props",
+      "PackagePath": "build\\StockMarketGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StockMarketGame.props",
+      "PackagePath": "buildMultiTargeting\\StockMarketGame.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StockMarketGame.props",
+      "PackagePath": "buildTransitive\\StockMarketGame.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
